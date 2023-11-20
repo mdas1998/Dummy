@@ -9,3 +9,6 @@ def model2():
 
 def model3():
     print("This is ML model 3 ")
+
+
+print("Model 3 is performing the best")
